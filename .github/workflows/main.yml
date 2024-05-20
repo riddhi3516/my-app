@@ -1,4 +1,4 @@
-name: my-app
+name: publish-to-github-pages
 on:
   push:
     branches:
